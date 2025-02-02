@@ -39,7 +39,7 @@ Video Presentation Link -  https://lnkd.in/d5ExMuJm </br>
 Github Repository Link - https://lnkd.in/d-xEMDt2 </br>
 
 ## Lakshdweep & Maldive Case Study </br>
-Linkdin Post link - https://www.linkedin.com/feed/update/urn:li:activity:7162847221586092033/ </br>
+Linkdin Post link - https://www.linkedin.com/feed/update/urn:li:activity:7291929237681328130/ / </br>
 GitHub Repository link - https://lnkd.in/duFxsw-S </br>
 
 
