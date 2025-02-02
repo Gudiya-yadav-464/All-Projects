@@ -4,7 +4,7 @@
 
 ## Credit Card Analysis </br>
 Linkdin post Link - https://www.linkedin.com/feed/update/urn:li:activity:7238483602559139840/ </br>
-Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiNmRlMGI2OWYtNGI0My00NGFkLWFhMjEtMTBkYmRiNWQ2ZTU0IiwidCI6IjVhNjY0NmJhLThjNzEtNDc0OC1hYjFhLTNkNDVhY2U4MTJiNyJ9   </br>
+Dashboard Link - (https://app.powerbi.com/view?r=eyJrIjoiZTBmYjk0YWItNWU1MS00ODZmLTgwMWYtNzdkNzNmMjI4ZTc0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  </br>
 Data Files are - Credit_card And Customer You can access it from above file sections 
 
 ## shield Insurance Analysis </br>
@@ -45,7 +45,7 @@ GitHub Repository link - https://lnkd.in/duFxsw-S </br>
 
 ## Spotify Dashboard </br>
 Linkdin post Link - https://www.linkedin.com/feed/update/urn:li:activity:7154893876518936576/ </br>
-Dashbaord Link - https://lnkd.in/dEFc3TRv </br>
+Dashbaord Link - (https://app.powerbi.com/view?r=eyJrIjoiYmIzMzQ0NGItZTc4Ni00MTBlLThkODAtNzc2NjAzYjRkYjExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) </br>
 GitHub Repository Lin -  https://lnkd.in/dE2QHztG </br>
 
 
