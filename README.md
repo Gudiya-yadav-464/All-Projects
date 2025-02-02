@@ -16,13 +16,13 @@ For more Infor About this project check my interhsip Project Repository</br>
 
 ## Atliq mart Analysis </br>
 Linkdin Post link - https://www.linkedin.com/feed/update/urn:li:activity:7167770919669645312/ </br>
-Dashbaord Link - https://lnkd.in/deDzZ-66  </br>
+Dashbaord Link - https://app.powerbi.com/view?r=eyJrIjoiMTE1MjZkNTUtZDJjNC00MzU2LTk3ZjEtNGQ0ZjIxNmVjYWYxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 </br>
 
 For More Info check My Atliq Mart Analysis Repostiory </br>
 
 ## Marketing Analysis For CodeX </br>
 Linkdin Post link -- https://www.linkedin.com/feed/update/urn:li:activity:7174103280254394368/ </br>
-Dashbaord Link - https://lnkd.in/dMGiTu6G </br>
+Dashbaord Link - https://app.powerbi.com/view?r=eyJrIjoiYjA1YTg1OWItNjI5NS00OThhLWIxODYtNTgxZmZiMGQwYTVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 </br>
 Video Presentation Link - -https://lnkd.in/dRh8rujY </br>
 
 For More Info Check My Marketing Analysis For CodeX </br>
@@ -45,7 +45,7 @@ GitHub Repository link - https://lnkd.in/duFxsw-S </br>
 
 ## Spotify Dashboard </br>
 Linkdin post Link - https://www.linkedin.com/feed/update/urn:li:activity:7154893876518936576/ </br>
-Dashbaord Link - (https://app.powerbi.com/view?r=eyJrIjoiYmIzMzQ0NGItZTc4Ni00MTBlLThkODAtNzc2NjAzYjRkYjExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) </br>
+Dashbaord Link - https://app.powerbi.com/view?r=eyJrIjoiYmIzMzQ0NGItZTc4Ni00MTBlLThkODAtNzc2NjAzYjRkYjExIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 </br>
 GitHub Repository Lin -  https://lnkd.in/dE2QHztG </br>
 
 
