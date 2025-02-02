@@ -9,7 +9,7 @@ Data Files are - Credit_card And Customer You can access it from above file sect
 
 ## shield Insurance Analysis </br>
 Linkdin Post Link - https://www.linkedin.com/feed/update/urn:li:activity:7227320698917056513/ </br>
-Dashboard link -  https://lnkd.in/dgKpSYp5 </br>
+Dashboard link - https://app.powerbi.com/view?r=eyJrIjoiN2RmNWM4NDktMzk2OS00YTJjLWE1YzUtNmE4YzVhNzQ3YTkxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9 </br>
 Video Presentation Link -  https://lnkd.in/deE4-NWM <br>
 
 For more Infor About this project check my interhsip Project Repository</br>
